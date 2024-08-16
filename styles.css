@@ -6,9 +6,12 @@
   font-size: 30px;
   color: red;
   text-decoration: none;
+  display: block;
 }
 
 .recipes {
 text-align: center;
 }
+
+
 
