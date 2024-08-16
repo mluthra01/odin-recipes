@@ -1,0 +1,14 @@
+.homepage {
+  text-align: center;
+  font-size: 80px;
+}
+.recipes a {
+  font-size: 30px;
+  color: red;
+  text-decoration: none;
+}
+
+.recipes {
+text-align: center;
+}
+
